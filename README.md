@@ -1,8 +1,8 @@
-# SmartGPA
+# Self-Evaluation of Academic Performance
 Explore the synergy of machine learning and academic insights with our project that harnesses SMART factors to predict student GPA, revolutionizing personalized education strategies.
 
 Dataset - https://studentlife.cs.dartmouth.edu
-
+Research Paper - SmartGPA
 
 
 
